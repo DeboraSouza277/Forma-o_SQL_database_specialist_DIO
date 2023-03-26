@@ -5,3 +5,4 @@ Bootcamp Formação Sql Database Especialist - Plataforma: Digital Innovation On
 
 * Personalizando o Banco de Dados com Índices e Procedures
 * Personalizando Acessos e Automatizando ações no MySQL
+* Criando Transações, Executando Backup e Recovery de Banco de Dados
